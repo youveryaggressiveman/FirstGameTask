@@ -12,6 +12,18 @@ namespace GameTask.ViewModel
 {
     public class MainWindowViewModel : BaseViewModel
     {
+        private string _nick;
+
+        public string Nick
+        {
+            get => _nick;
+            set
+            {
+                _nick = value;
+                OnPropertyChanged(nameof(Nick));
+            }
+        }
+
         public ICommand Game { get; }
         public ICommand Results { get; }
 

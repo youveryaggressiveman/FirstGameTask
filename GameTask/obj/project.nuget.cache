@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KdADXVsB9S0=",
+  "dgSpecHash": "XGpEJ50F9cU=",
   "success": true,
-  "projectFilePath": "D:\\GG PROGRAMIST\\All_project_c#\\GameTask\\GameTask\\GameTask.csproj",
+  "projectFilePath": "C:\\Users\\Админ\\Desktop\\Новая папка (3)\\FirstGameTask\\GameTask\\GameTask.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\andre\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
+    "C:\\Users\\Админ\\.nuget\\packages\\handycontrol\\3.5.1\\handycontrol.3.5.1.nupkg.sha512"
   ],
   "logs": []
 }

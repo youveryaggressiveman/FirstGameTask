@@ -9,6 +9,26 @@
       Title="ResultsPage">
 
     <Grid>
-        
+        <DataGrid ItemsSource="{Binding GameResults}"
+                  Style="{StaticResource DataGrid.Small}"
+                  Margin="15"
+                  AutoGenerateColumns="False"
+                  CanUserAddRows="False"
+                  IsReadOnly="True"
+                  SelectionMode="Single"
+                  RowHeight="60">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Ник"
+                                    Binding="{Binding PlayerName}"
+                                    Width="*"
+                                    FontWeight="SemiBold" />
+                <DataGridTextColumn Header="Попытки"
+                                    Binding="{Binding Attempts}"
+                                    Width="120" />
+                <DataGridTextColumn Header="Дата"
+                                    Binding="{Binding Date, StringFormat='dd.MM.yyyy'}"
+                                    Width="100" />
+            </DataGrid.Columns>
+        </DataGrid>
     </Grid>
 </Page>

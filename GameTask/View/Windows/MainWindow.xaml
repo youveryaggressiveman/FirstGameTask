@@ -28,6 +28,20 @@
                     Margin="25"
                     Width="150"
                     Command="{Binding Game}" />
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                <TextBlock Text="Ник: "
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Margin="25 10 0 10"/>
+                <TextBox Text="{Binding Nick}"
+                         FontWeight="Bold"
+                         Margin="20"
+                         Width="200"
+                         FontSize="18"/>
+            </StackPanel>
         </StackPanel>
         <Frame x:Name="mainFrame"
                NavigationUIVisibility="Hidden"

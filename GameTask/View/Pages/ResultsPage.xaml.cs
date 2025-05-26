@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GameTask.ViewModel;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -20,9 +21,12 @@ namespace GameTask.View.Pages
     /// </summary>
     public partial class ResultsPage : Page
     {
+        private readonly ResultPageViewModel _viewModel;
         public ResultsPage()
         {
             InitializeComponent();
+
+            DataContext = _viewModel = new();
         }
     }
 }

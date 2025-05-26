@@ -22,3 +22,32 @@ D:\GG PROGRAMIST\All_project_c#\GameTask\GameTask\obj\Debug\net8.0-windows\refin
 D:\GG PROGRAMIST\All_project_c#\GameTask\GameTask\obj\Debug\net8.0-windows\GameTask.pdb
 D:\GG PROGRAMIST\All_project_c#\GameTask\GameTask\obj\Debug\net8.0-windows\GameTask.genruntimeconfig.cache
 D:\GG PROGRAMIST\All_project_c#\GameTask\GameTask\obj\Debug\net8.0-windows\ref\GameTask.dll
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.csproj.AssemblyReference.cache
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Pages\GamePage.g.cs
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Pages\ResultsPage.g.cs
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Windows\MainWindow.g.cs
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask_MarkupCompile.cache
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask_MarkupCompile.lref
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.dll
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\refint\GameTask.dll
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.pdb
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\GameTask.exe
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\GameTask.deps.json
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\GameTask.runtimeconfig.json
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\GameTask.dll
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\GameTask.pdb
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\bin\Debug\net8.0-windows\HandyControl.dll
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\App.baml
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Pages\GamePage.baml
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Pages\ResultsPage.baml
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\View\Windows\MainWindow.baml
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.g.resources
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.AssemblyInfoInputs.cache
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.AssemblyInfo.cs
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.sourcelink.json
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.csproj.Up2Date
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\GameTask.genruntimeconfig.cache
+C:\Users\Админ\Desktop\Новая папка (3)\FirstGameTask\GameTask\obj\Debug\net8.0-windows\ref\GameTask.dll

@@ -5,8 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Media.Imaging;
+using GameTask.Model;
 
-namespace GameTask.Model
+namespace GameTask.Core
 {
     public class FileManager
     {
@@ -14,6 +15,10 @@ namespace GameTask.Model
 
         public FileManager()
         {
+            if (!Directory.Exists(_path))
+            {
+                Directory.CreateDirectory(_path);
+            }
             if (!File.Exists(Path.Combine(_path, "Results.txt")))
             {
                 File.Create(Path.Combine(_path, "Results.txt")).Close();
@@ -44,9 +49,9 @@ namespace GameTask.Model
                 throw new Exception();
             }
 
-            using(StreamWriter writer = new(path, true))
+            using (StreamWriter writer = new(path, true))
             {
-                await writer.WriteLineAsync(!!!);
+                await writer.WriteLineAsync($"{gameResult.PlayerName}, {gameResult.Attempts}, {gameResult.Date}");
             }
         }
     }

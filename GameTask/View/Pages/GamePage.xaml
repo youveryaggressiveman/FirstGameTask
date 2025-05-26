@@ -9,6 +9,47 @@
       Title="GamePage">
 
     <Grid>
-        
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid>
+            <StackPanel Orientation="Horizontal"
+                        VerticalAlignment="Center"
+                        HorizontalAlignment="Center">
+                <TextBlock Text="Введите вариант ответа: "
+                           FontSize="18"
+                           HorizontalAlignment="Center"
+                           VerticalAlignment="Center"
+                           Margin="20"/>
+                <TextBox Text="{Binding Variable}"
+                         Width="200"
+                         x:Name="variableTextBox"
+                         FontWeight="Bold"
+                        
+                         PreviewTextInput="variableTextBox_PreviewTextInput"
+                         Style="{StaticResource TextBoxExtend}"
+                         Margin="20"/>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <TextBlock HorizontalAlignment="Center"
+                       VerticalAlignment="Center"
+                       FontSize="21">
+                <Run Text="Кол-во попыток:"/>
+                <Run Text="{Binding Attempt}" FontWeight="Bold"/>
+            </TextBlock>
+            <Button Content="Проверить"
+                    Width="200"
+                    Command="{Binding Check}"
+                    Style="{StaticResource ButtonDanger}"
+                    HorizontalAlignment="Center"
+                    Grid.Column="1"
+                    VerticalAlignment="Center"/>
+        </Grid>
     </Grid>
 </Page>
